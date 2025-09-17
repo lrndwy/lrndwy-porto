@@ -11,7 +11,7 @@ export function SmoothScrollProvider({ children }: { children: ReactNode }) {
       try {
         // dynamic import to avoid hard dependency during build
         const mod = await import("smooth-scroll");
-        const SmoothScroll = (mod as any).default ?? (mod as any);
+        const SmoothScroll = mod.default || mod;
         const instance = new SmoothScroll('a[href*="#"]', {
           speed: 600,
           speedAsDuration: true,
@@ -22,7 +22,7 @@ export function SmoothScrollProvider({ children }: { children: ReactNode }) {
         destroy = () => {
           try { instance.destroy(); } catch {}
         };
-      } catch (_err) {
+      } catch {
         // library not installed: rely on CSS scroll-behavior
       }
     })();

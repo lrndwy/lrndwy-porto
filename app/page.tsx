@@ -2,19 +2,14 @@
 
 import { Section } from "@/components/shared/Section";
 import * as React from "react";
-// import { Button } from "@/components/ui/button";
-import { LiquidButton, MetalButton } from "@/components/ui/liquid-glass-button";
 import { RainbowButton } from "@/components/ui/rainbow-button";
-import { Separator } from "@/components/ui/separator";
-import { skills, projects, experiences, education, stacks, profile, contact } from "@/lib/content";
+import { projects, experiences, education, stacks, profile, contact } from "@/lib/content";
 import { NavThemeToggle } from "@/components/shared/NavThemeToggle";
 import { GlowCard } from "@/components/ui/spotlight-card";
 import { Timeline } from "@/components/ui/timeline";
 import { SocialCard } from "@/components/ui/social-card";
-import DisplayCards from "@/components/ui/display-cards";
 import { ProjectCards } from "@/components/ui/animated-project-cards";
 import { StackMarquee } from "@/components/ui/stack-marquee";
-import { Sparkles, Check, Download, Shield } from "lucide-react";
 import { FolderProjectIcon } from "@/components/shared/FolderProjectIcon";
 import CursorWanderCard from "@/components/ui/cursor-wander-card";
 import ProfileCard from "@/components/ui/profile-card";

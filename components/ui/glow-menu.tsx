@@ -145,7 +145,7 @@ export const MenuBar = React.forwardRef<HTMLDivElement, MenuBarProps>(
         />
         <ul className="flex items-center gap-2 relative z-10 overflow-x-auto overscroll-x-contain snap-x snap-mandatory px-1 -mx-1">
           {items.map((item) => {
-            const Icon = item.icon as any
+            const Icon = item.icon as React.ComponentType<{ className?: string }>
             const isActive = item.label === activeItem
 
             return (
