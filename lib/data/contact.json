@@ -1,0 +1,12 @@
+{
+  "email": "hafizagha.ab@gmail.com",
+  "phone": "+62 858 9039 2419",
+  "location": "Cipayung, Jakarta Timur",
+  "website": "https://hexanest.id",
+  "socials": [
+    { "label": "GitHub", "url": "https://github.com/lrndwy" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/hafiz-agha-al-baith-22aa7335a/" },
+    { "label": "Twitter", "url": "https://x.com/lrndwy" },
+    { "label": "Instagram", "url": "https://instagram.com/lrnd.__" }
+  ]
+}

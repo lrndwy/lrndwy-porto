@@ -1,0 +1,6 @@
+[
+  { "name": "Python", "level": 90 },
+  { "name": "JavaScript", "level": 80 },
+  { "name": "TypeScript", "level": 75 },
+  { "name": "Golang", "level": 60 }
+]

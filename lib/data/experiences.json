@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Freelance Backend Developer",
+    "company": "Imigrasi Soekarno Hatta",
+    "period": "2025 – Present",
+    "summary": "Backend Golang untuk sistem internal Imigrasi Soekarno Hatta."
+  },
+  {
+    "role": "CEO & Founder",
+    "company": "HEXANEST.ID",
+    "period": "2024 – Present",
+    "summary": "Memimpin startup jasa pengembangan website (9 anggota) dengan misi mengaplikasikan teknologi terbaru."
+  },
+  {
+    "role": "Freelance Full‑Stack Web Developer",
+    "company": "PT Bagun Satya Wacana, Diginusa",
+    "period": "2024 – Present",
+    "summary": "Pengembangan Django, Python dan stack web lainnya."
+  },
+  {
+    "role": "Fullstack Developer (PKL)",
+    "company": "PT Bagun Satya Wacana, Diginusa",
+    "period": "2024",
+    "summary": "Membangun beberapa proyek internal (Library, Linkteraksi, Presensi)."
+  },
+  {
+    "role": "Freelance Wordpress Developer",
+    "company": "Gramedia Academy",
+    "period": "2023 – 2024",
+    "summary": "Membuat website profil perusahaan dan integrasi pembayaran (WooCommerce, Cashlez)."
+  },
+  {
+    "role": "WordPress Developer",
+    "company": "SMK Prestasi Prima",
+    "period": "2023",
+    "summary": "Website profil sekolah."
+  }
+]

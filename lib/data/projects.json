@@ -1,0 +1,20 @@
+[
+  {
+    "title": "appCapture",
+    "description": "Alat berbasis Python untuk menangkap & menganalisis lalu lintas API (HTTP/HTTPS) menggunakan mitmproxy, dilengkapi antarmuka Flask/Quart untuk debugging aplikasi Android.",
+    "tags": ["Python", "Flask", "mitmproxy"],
+    "githubUrl": "https://github.com/lrndwy/appCapture.git"
+  },
+  {
+    "title": "WebUMKM",
+    "description": "Platform e‑commerce full‑stack untuk UMKM (Vue.js + TypeScript, Tailwind, Pinia; Node.js + Express; database PocketBase). Mendukung katalog, keranjang, checkout, dan dashboard admin.",
+    "tags": ["Vue", "TypeScript", "Node.js", "Express", "PocketBase"],
+    "githubUrl": "https://github.com/hafizagha/WebUMKM"
+  },
+  {
+    "title": "waziun‑money‑mgr",
+    "description": "Bot WhatsApp manajemen keuangan pribadi berbasis Node.js. Pencatatan pemasukan/pengeluaran, laporan, grafik, dan integrasi Gemini AI untuk analisis.",
+    "tags": ["Node.js", "WhatsApp", "Gemini"],
+    "githubUrl": "https://github.com/hafizagha/waziun-money-mgr"
+  }
+]
